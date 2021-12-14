@@ -1,0 +1,2 @@
+# University-Portal
+At a university, they have a database. In this database they store all kinds of necessary information. In this project, they will be able to connect to that database and access the database very easily. In this project, various features are available for managing faculty, courses, students, teachers, classes, departments, results, registration. Student features for managing students and teacher features for managing teachers have been created. Moreover, they have their own user id and passwords to access and control their own features.
